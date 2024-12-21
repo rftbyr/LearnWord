@@ -1,0 +1,107 @@
+{
+  "appPolicies" : {
+    "eula" : "END USER LICENSE AGREEMENT (EULA)\n\n1. ACCEPTANCE\nBy using this application, you agree to be bound by the terms of this agreement.\n\n2. TERMS OF USE\n- This application is for personal use only.\n- All content within the application is copyrighted.\n- Copying, distributing, or using the content for commercial purposes is prohibited.\n\n3. PRIVACY\n- The application stores user data locally.\n- No personal data is shared with third parties.\n\n4. DISCLAIMER\n- The application is provided \"as is\".\n- No warranty is given regarding the accuracy of content.\n- Users are responsible for any issues arising from the use of the application.\n\n5. UPDATES\n- The application may be updated from time to time.\n- Updates may include new terms.\n\n6. TERMINATION\n- Usage rights may be terminated in case of violation of terms.\n\n7. INTELLECTUAL PROPERTY\n- All content, design, and features are owned by the application developer.\n- Users may not modify, adapt or create derivative works.\n\n8. USER CONDUCT\n- Users agree to use the application legally and responsibly.\n- Any misuse or abuse will result in termination.\n\n9. CONTACT\nFor questions: [rftbyr@icloud.com]\n\nThis agreement is governed by the laws of the Republic of Turkey.\n\nLast updated: 2024\n\"\"\"",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "7DD44568",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "99",
+      "familyShareable" : false,
+      "internalID" : "A5430626",
+      "localizations" : [
+        {
+          "description" : "YDS sınavında çıkmış kelimeler",
+          "displayName" : "Yds",
+          "locale" : "tr"
+        }
+      ],
+      "productID" : "com.rftbyr.LearnWord.yds",
+      "referenceName" : "Yds",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "199",
+      "familyShareable" : false,
+      "internalID" : "495562A3",
+      "localizations" : [
+        {
+          "description" : "Havacılık Terimleri ",
+          "displayName" : "Havacılık",
+          "locale" : "tr"
+        }
+      ],
+      "productID" : "com.rftbyr.LearnWord.aircraft",
+      "referenceName" : "Aircraft",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "tr",
+    "_storefront" : "TUR",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
